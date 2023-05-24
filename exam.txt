@@ -1,0 +1,4 @@
+git config --global user.name rkddnr
+git config --global user.email pok_7942@naver.com
+cd C:\Ex
+git clone https://github.com/rkddnr/Git1.git
