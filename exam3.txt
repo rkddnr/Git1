@@ -1,0 +1,8 @@
+git config --global user.name rkddnr			//깃허브계정
+git config --global user.email pok_7942@naver.com	//깃허브이메일
+cd C:\Ex
+git clone https://github.com/rkddnr/Git1.git
+cd Git1
+git add exam.txt					//파일추가
+git commit -m "Add Text File [exam.txt]" 		//커밋함으로 문제생길시 복구하기 위함
+git push 						//깃허브에 적용
